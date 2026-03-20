@@ -12,7 +12,7 @@ Here is a quick look at how the application looks and works:
 
 | Empty State | Data Added in Action |
 | :---: | :---: |
-| ![Empty Application](./screenshots/empty_app.png) | ![Application with Data](./screenshots/app_in_action.png) |
+| ![Empty Application](empty_app.png) | ![Application with Data](app_in_action.png) |
 
 *The input fields allow for Date, Description, Amount, and VAT entries, which are then listed in the box below.*
 
